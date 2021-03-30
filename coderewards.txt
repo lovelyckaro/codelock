@@ -1,0 +1,5 @@
+code1:reward1;
+code2:reward 2 with spaces;
+code3:reward with more than one line
+the second line
+the third line;
